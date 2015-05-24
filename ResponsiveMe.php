@@ -3,7 +3,7 @@
  * Plugin Name: ResponsiveMe
  * Plugin URI: http://responsiveme.cccc.de
  * Description: This plugin add your theme a responsive design without changing your theme strict. The plugin add an responsive navigation and gives you the opportunity to add css at a special breakpoint.
- * Version: Beta - 0.5.
+ * Version: 1.0
  * Author: Werbeagentur 4c media Bayreuth
  * Author URI: http://www.cccc.de/
  * License: GPLv2
@@ -196,7 +196,7 @@ function reponsiveme_settings_page() {
 						
 							<p>ResponsiveMe was developed by <a href="http://wwww.cccc.de" target="_blank" title="Werbeagentur 4c media">4c media in Bayreuth</a>. This plugin helps you creating a mobil theme for your website or blog. The plugin add a responsive navigation and gives you the opportunity to add css at a defined breakpoint.</p>
 							
-							<p>For full documentation, bug reports or feature suggestions visit the <a target="_blank" href="#" title="GitHub">ResponsiveMe repository</a>.</p>
+							<p>For full documentation, bug reports or feature suggestions visit the <a target="_blank" href="https://github.com/4cfelix/ResponsiveMe" title="GitHub">ResponsiveMe repository</a>.</p>
 														
 							<?php require_once('assets/logo.php'); ?>
 							
