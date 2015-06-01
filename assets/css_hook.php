@@ -109,10 +109,6 @@ function hook_css()
 				margin-left: 0!important;
 				margin-right: 0!important;
 			   }
-			   
-			  a, span, p{
-			  	display:block;
-			  }
 			  
 			  * img, * h1 a, * h2 a, * h3 a, * h4 a, * h5 a, * h6 a{
 				width: 100%!important;
